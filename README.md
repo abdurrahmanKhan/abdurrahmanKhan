@@ -19,5 +19,6 @@ My skills include -
 
 
 My other Profiles: ![](https://github.com/abdurrahmanKhan/random/lin.png)
+[![LinkdedIn](https://github.com/abdurrahmanKhan/random/lin.png)](https://www.linkedin.com/in/abdurrahman-163a63127/)
 
 
