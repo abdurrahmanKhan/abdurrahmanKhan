@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 I am Abdurrahman. Data intrigues me. My interest and expertise lie in Data Analytics domain. 
 My skills include - 
 
-> Other Profiles: 
+* Other Profiles: 
      
      [LinkedIn Profile](https://www.linkedin.com/in/abdurrahman-163a63127/)
      
@@ -26,6 +26,5 @@ My skills include -
      [GCP Qwiklabs Profile](https://google.qwiklabs.com/public_profiles/d5171de0-5923-43eb-aa06-3fedbf869b93)
      
      [Acclaim Profile](https://www.youracclaim.com/users/abdurrahman-khan/badges)
-     
-     [Devincept Website](https://devincept.tech/)
+
   
