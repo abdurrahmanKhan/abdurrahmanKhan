@@ -19,12 +19,9 @@ My skills include -
 
 * Other Profiles: 
      
-     [LinkedIn Profile](https://www.linkedin.com/in/abdurrahman-163a63127/)
-     
-     [Tableau Public Profile](https://public.tableau.com/profile/abdurrahman8234/)
-     
-     [GCP Qwiklabs Profile](https://google.qwiklabs.com/public_profiles/d5171de0-5923-43eb-aa06-3fedbf869b93)
-     
-     [Acclaim Profile](https://www.youracclaim.com/users/abdurrahman-khan/badges)
+     *[LinkedIn Profile](https://www.linkedin.com/in/abdurrahman-163a63127/)
+     *[Tableau Public Profile](https://public.tableau.com/profile/abdurrahman8234/)   
+     *[GCP Qwiklabs Profile](https://google.qwiklabs.com/public_profiles/d5171de0-5923-43eb-aa06-3fedbf869b93)     
+     *[Acclaim Profile](https://www.youracclaim.com/users/abdurrahman-khan/badges)
 
   
