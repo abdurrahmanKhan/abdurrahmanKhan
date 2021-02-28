@@ -19,7 +19,7 @@ My skills include -
 
 
 * My other Profiles: 
-    1. [![LinkdedIn Profile]()](https://www.linkedin.com/in/abdurrahman-163a63127)
+    1. [![LinkdedIn Profile](file://lin.png)](https://www.linkedin.com/in/abdurrahman-163a63127)
     2. [![Tableau Public Profile]()](https://public.tableau.com/profile/abdurrahman8234)
     3. 
 
