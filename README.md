@@ -19,7 +19,9 @@ I like to implement new technologies and gain positive foothold in exploring in 
 
 
 💬 Ask me about Data and Storytelling or ML
+
 🌱 I’m currently learning Parallalization in  ML Pipelines
+
 📫 Reach me at mailtoabdurrahman24x7@gmail.com 
 
 * Other Profiles: 
