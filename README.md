@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 I am Abdurrahman. Data intrigues me. My interest and expertise lies in Data Analytics domain.
 I like to implement new technologies and gain positive foothold in exploring in Data Domain 
 
-Tools: Tableau, Neo4j, Apache Superset
+💬 Ask me about Data and Storytelling or ML
+🌱 I’m currently learning Parallalization in  ML Pipelines
+📫 Reach me at mailtoabdurrahman24x7@gmail.com 
 
 * Other Profiles: 
 
