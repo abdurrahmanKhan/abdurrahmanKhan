@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 I am Abdurrahman. Data intrigues me. My interest and expertise lie in Data Analytics domain. 
 My skills include - 
 
-* Other Profiles: 
+> Other Profiles: 
      
      [LinkedIn Profile](https://www.linkedin.com/in/abdurrahman-163a63127/)
      
