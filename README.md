@@ -18,6 +18,6 @@ I am Abdurrahman. Data intrigues me. My interest and expertise lie in Data Analy
 My skills include - 
 
 
-My other Profiles: [![LinkedIn Profile link](extras/logo.gif)](https://www.linkedin.com/in/abdurrahman-163a63127/)
+My other Profiles: [![LinkedIn Profile link](https://img.flaticon.com/icons/png/512/61/61109.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF)](https://www.linkedin.com/in/abdurrahman-163a63127/)
 
 
