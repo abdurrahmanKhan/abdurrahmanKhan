@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
  ⚡ Fun fact: ...
 --> 
-I am Abdurrahman. Data intrigues me. My interest and expertise lie in Data Analytics domain. 
-My skills include - 
+I am Abdurrahman. Data intrigues me. My interest and expertise lie in Data Analytics domain.
+Skills: Python, MySQL
+Tools: Tableau, Neo4j, Apache Superset
+
 
 * Other Profiles: 
 
