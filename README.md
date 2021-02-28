@@ -14,4 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
  ⚡ Fun fact: ...
 --> 
-🔭 I’m currently working on ML project
+I am Abdurrahman. Data intrigues me. My interest and expertise lie in Data Analytics domain. 
+My skills include - 
+
+
+My other Profiles: [![LinkedIn Profile link](extras/logo.gif)](https://www.linkedin.com/in/abdurrahman-163a63127/)
+
+
