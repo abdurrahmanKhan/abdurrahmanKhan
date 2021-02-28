@@ -18,6 +18,6 @@ I am Abdurrahman. Data intrigues me. My interest and expertise lie in Data Analy
 My skills include - 
 
 
-My other Profiles: ![DevIncept logo image](https://github.com/abdurrahmanKhan/random/lin.png)
+My other Profiles: ![](https://github.com/abdurrahmanKhan/random/lin.png)
 
 
