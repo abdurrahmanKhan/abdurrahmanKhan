@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Abdurrahman working as a Data Scientist at Indegene. 
+I am Abdurrahman working as a Data Scientist at Elsevier. 
 
 📫 Reach me at mailtoabdurrahman24x7@gmail.com 
 
